@@ -9,4 +9,4 @@
  - you can call it and change the border type as you want each time you call it 
 
 ex: <br>
-    🟢 `<span style="color:green;">my_bord = Create_border(['┌','┐','─','│','└','┘'], the_text)</span> 🍋`
+    🟢 `my_bord = Create_border(['┌','┐','─','│','└','┘'], the_text)` 🍋
