@@ -1,12 +1,12 @@
 🚀- # border generator
 
-create a border for string
+ - create a border for string
 
-each new line must be followed be "\n"... 
+ - each new line must be followed be "\n"...
+ - 
+ - it will be considered for the number of line for generating the border ... 
 
-it will be considered for the number of line for generating the border ... 
-
-you can call it and change the border type as you want each time you call it 
+ - you can call it and change the border type as you want each time you call it 
 
 ex: <br>
     🟢 <span style="color:green;">my_bord = Create_border(['┌','┐','─','│','└','┘'], the_text)</span> 🍋
